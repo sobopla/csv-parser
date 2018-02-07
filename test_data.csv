@@ -1,0 +1,64 @@
+status,reason,email,created
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user209945@optonline.net,1498953533
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user164012@optonline.net,1498953498
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user663675@optonline.net,1498953478
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user820534@optonline.net,1498953459
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user601156@optonline.net,1498907383
+5.7.1,554 5.7.1 Spam detected by content scanner.  Message rejected.,user602171@optonline.net,1498907367
+5.7.1,554 5.7.1 Message rejected due to possible spam content,user684739@earthlink.net,1498953234
+5.7.1,554 5.7.1 Message rejected due to possible spam content,user852631@earthlink.net,1498953232
+5.7.1,554 5.7.1 Message rejected due to possible spam content,user72871@earthlink.net,1498952812
+5.7.1,554 5.7.1 Message rejected due to possible spam content,user916621@earthlink.net,1498952712
+5.7.1,554 5.7.1 [P4] Message blocked due to spam content in the message.,user141461@centurylink.net,1498953485
+5.7.1,554 5.7.1 [P4] Message blocked due to spam content in the message.,user641317@centurylink.net,1498953417
+5.7.1,554 5.7.1 [P4] Message blocked due to spam content in the message.,user255572@centurylink.net,1498953346
+5.7.1,554 5.7.1 [P4] Message blocked due to spam content in the message.,user598357@centurylink.net,1498904562
+5.7.1,554 5.7.1 [P4] Message blocked due to spam content in the message.,user648357@centurylink.net,1498904523
+5.7.1,554 5.7.1  Service unavailable; Client host [x.x.x.x] blocked using bl.spamcop.net; Blocked - see http://www.spamcop.net/bl.shtml?x.x.x.x,user739359@me.com,1498953599
+5.7.1,554 5.7.1  Service unavailable; Client host [x.x.x.x] blocked using bl.spamcop.net; Blocked - see http://www.spamcop.net/bl.shtml?x.x.x.x,user722940@me.com,1498953564
+5.7.1,554 5.7.1  Service unavailable; Client host [x.x.x.x] blocked using bl.spamcop.net; Blocked - see http://www.spamcop.net/bl.shtml?x.x.x.x,user721058@me.com,1498953554
+552,552 Mail quota exceeded,user547646@juno.com,1498952780
+552,552 Mail quota exceeded,user613657@juno.com,1498952722
+552,552 Mail quota exceeded,user155488@juno.com,1498952204
+552,552 Mail quota exceeded,user553262@juno.com,1498951372
+552,552 Mail quota exceeded,user251814@juno.com,1498951112
+550,550 Requested action not taken: mailbox unavailable,user658625@hotmail.com,1498953583
+550,550 Requested action not taken: mailbox unavailable,user461951@hotmail.com,1498953531
+550,550 Requested action not taken: mailbox unavailable,user209846@hotmail.com,1498953439
+550,550 Requested action not taken: mailbox unavailable,user907402@hotmail.com,1498953342
+550,550 Requested action not taken: mailbox unavailable,user442621@hotmail.com,1498953162
+550,550 Email blocked by bl.spamcop.net,user183783@cox.net,1498953598
+550,550 Email blocked by bl.spamcop.net,user779410@cox.net,1498953590
+550,550 Email blocked by bl.spamcop.net,user950819@cox.net,1498953573
+550,550 Email blocked by bl.spamcop.net,user417535@cox.net,1498953489
+550,550 Email blocked by bl.spamcop.net,user797512@cox.net,1498953452
+550,550 Email blocked by bl.spamcop.net,user589980@cox.net,1498953412
+550,550 Email blocked by bl.spamcop.net,user272709@cox.net,1498953292
+550,550 Email blocked by bl.spamcop.net,user502034@cox.net,1498953278
+550,550 Email blocked by bl.spamcop.net,user867293@cox.net,1498953245
+550,550 Email blocked by bl.spamcop.net,user562610@cox.net,1498903607
+5.7.1,550 5.7.1 Service unavailable; client [x.x.x.x] blocked using spamcop.dnsbl,user149435@yahoo.com,1498953466
+5.7.1,550 5.7.1 Service unavailable; client [x.x.x.x] blocked using spamcop.dnsbl,user136769@yahoo.com,1498953446
+5.7.1,550 5.7.1 Service unavailable; client [x.x.x.x] blocked using spamcop.dnsbl,user419487@yahoo.com,1498953398
+5.1.1,550 5.1.1 unknown or illegal alias,user324503@me.com,1498953362
+5.1.1,550 5.1.1 unknown or illegal alias,user682316@me.com,1498953235
+5.1.1,550 5.1.1 unknown or illegal alias,user109798@me.com,1498953024
+5.1.1,550 5.1.1 unknown or illegal alias,user596141@me.com,1498952757
+5.1.1,550 5.1.1 unknown or illegal alias,user958707@me.com,1498952690
+5.1.1,550 5.1.1 unknown or illegal alias,user903634@me.com,1498952594
+4.2.2,452 4.2.2 The email account that you tried to reach is over quota. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaTemp abcde12345.123 - gsmtp,user737895@gmail.com,1498953560
+4.2.2,452 4.2.2 The email account that you tried to reach is over quota. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaTemp abcde12345.123 - gsmtp,user805501@gmail.com,1498953404
+4.2.2,452 4.2.2 The email account that you tried to reach is over quota. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaTemp abcde12345.123 - gsmtp,user33729@gmail.com,1498953355
+4.2.2,452 4.2.2 The email account that you tried to reach is over quota. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaTemp abcde12345.123 - gsmtp,user282744@gmail.com,1498953339
+4.2.2,452 4.2.2 The email account that you tried to reach is over quota. Please direct the recipient to  https://support.google.com/mail/?p=OverQuotaTemp abcde12345.123 - gsmtp,user878973@gmail.com,1498953251
+4.1.0,452 4.1.0 ... sender rejected (too busy for now),user324135@comcast.net,1498953083
+4.1.0,452 4.1.0 ... sender rejected (too busy for now),user497573@comcast.net,1498952828
+4.1.0,452 4.1.0 ... sender rejected (too busy for now),user151232@comcast.net,1498952496
+4.1.0,452 4.1.0 ... sender rejected (too busy for now),user364654@comcast.net,1498951832
+4.1.0,452 4.1.0 ... sender rejected (too busy for now),user462354@comcast.net,1498951327
+5.7.1,"""554 5.7.1 Your mail could not be delivered because the     recipient is only accepting mail from specific email addresses. If you feel     you received this in error, please contact the recipient directly and ask     them to check their email settings.""",user849114@aol.com,1498953376
+5.7.1,"""554 5.7.1 Your mail could not be delivered because the     recipient is only accepting mail from specific email addresses. If you feel     you received this in error, please contact the recipient directly and ask     them to check their email settings.""",user740610@aol.com,1498953255
+5.2.1,"""550 5.2.1... Addressee unknown, relay=[x.x.x.x] """,user401316@att.net,1498953272
+5.2.1,"""550 5.2.1... Addressee unknown, relay=[x.x.x.x] """,user414706@att.net,1498953266
+5.2.1,"""550 5.2.1... Addressee unknown, relay=[x.x.x.x] """,user526468@att.net,1498952822
+5.2.1,"""550 5.2.1... Addressee unknown, relay=[x.x.x.x] """,user442595@att.net,1498952650
