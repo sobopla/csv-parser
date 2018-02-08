@@ -9,12 +9,13 @@ require 'csv'
   # if the reason does not exist, create a data structure with the reason and the count of it's occurance
   # if the reason does exist, increase it's count in the data structure
 
-# Notes and questions: 	
+# Notes and questions:
+# I will assume every second column of a file contains the 'reason' 	
 # is sort_by lossy?
 # invert a hash in ruby is lossy 
 
 
-module ReasonCount # Returns a table with rows that already have keys
+module ReasonCount 
   def self.get_top_reasons_from_csv(filename)
     reasons = {}
     CSV.foreach("customerio_sample_data.csv", headers: true, header_converters: :symbol) do |row|
