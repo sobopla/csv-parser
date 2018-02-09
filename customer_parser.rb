@@ -18,7 +18,7 @@ require 'csv'
 module ReasonCount 
   def self.get_top_reasons_from_csv(filename)
     reasons = {}
-    CSV.foreach("customerio_sample_data.csv", headers: true, header_converters: :symbol) do |row|
+    CSV.foreach(filename, headers: true, header_converters: :symbol) do |row|
 
       if row[1] != nil
         if reasons.has_key?([row[1]])
